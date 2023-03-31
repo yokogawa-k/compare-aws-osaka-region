@@ -1,0 +1,507 @@
+accessanalyzer							accessanalyzer
+account								account
+acm								acm
+acm-pca								acm-pca
+aiq								aiq
+amazonlocationservice					      <
+amplify							      <
+amplifybackend						      <
+amplifyuibuilder					      <
+apigateway							apigateway
+apigatewaymanagementapi						apigatewaymanagementapi
+apigatewayv2							apigatewayv2
+appconfig							appconfig
+appconfigdata							appconfigdata
+appflow							      <
+appintegrations						      <
+application-autoscaling						application-autoscaling
+application-insights						application-insights
+appmesh								appmesh
+apprunner						      <
+appstream						      <
+appsync								appsync
+aps							      <
+arc-zonal-shift						      <
+artifact							artifact
+athena								athena
+auditmanager						      <
+augmentedairuntime					      <
+aurora								aurora
+autoscaling							autoscaling
+backup								backup
+backup-gateway							backup-gateway
+batch								batch
+budgets							      <
+chatbot								chatbot
+chime							      <
+chime-sdk						      <
+chime-sdk-voice						      <
+cleanrooms						      <
+cloud9								cloud9
+cloudcontrolapi							cloudcontrolapi
+cloudenduredisasterrecovery					cloudenduredisasterrecovery
+cloudenduremigration						cloudenduremigration
+cloudformation							cloudformation
+cloudfront							cloudfront
+cloudhsmv2							cloudhsmv2
+cloudsearch						      <
+cloudshell						      <
+cloudtrail							cloudtrail
+cloudwatch							cloudwatch
+codeartifact						      <
+codebuild							codebuild
+codecommit							codecommit
+codedeploy							codedeploy
+codeguru-reviewer					      <
+codeguruprofiler					      <
+codepipeline						      <
+codestar						      <
+codestar-connections					      <
+codestar-notifications					      <
+cognito-identity					      <
+cognito-idp						      <
+cognito-sync						      <
+comprehend						      <
+compute-optimizer						compute-optimizer
+config								config
+connect							      <
+connect-contact-lens					      <
+connectparticipant					      <
+controltower						      <
+customer-profiles					      <
+databrew						      <
+dataexchange						      <
+datapipeline						      <
+datasync							datasync
+dax							      <
+deeplens						      <
+detective						      <
+devops-guru						      <
+directconnect							directconnect
+discovery						      <
+dlm								dlm
+dms								dms
+docdb							      <
+drs								drs
+ds								ds
+dynamodb							dynamodb
+dynamodbstreams							dynamodbstreams
+ebs								ebs
+ec2								ec2
+ecr								ecr
+ecs								ecs
+efs								efs
+eks								eks
+elastic-inference					      <
+elasticache							elasticache
+elasticbeanstalk						elasticbeanstalk
+elastictranscoder					      <
+elb								elb
+emr								emr
+emr-containers						      <
+emr-serverless						      <
+es								es
+eventbridge							eventbridge
+events								events
+evidently						      <
+fargate								fargate
+filecache						      <
+firehose							firehose
+fis							      <
+fms								fms
+forecast						      <
+forecastquery						      <
+freertosota						      <
+fsx								fsx
+fsx-lustre							fsx-lustre
+fsx-ontap						      <
+fsx-openzfs						      <
+fsx-windows							fsx-windows
+gamelift							gamelift
+gamesparks						      <
+glacier								glacier
+globalaccelerator						globalaccelerator
+glue								glue
+grafana							      <
+greengrass						      <
+guardduty							guardduty
+iam								iam
+identity-center							identity-center
+identitystore							identitystore
+imagebuilder							imagebuilder
+inspector						      <
+inspector2						      <
+internetmonitor						      <
+iot							      <
+iot-data						      <
+iot-jobs-data						      <
+iot1click-projects					      <
+iotanalytics						      <
+iotdeviceadvisor					      <
+iotdevicedefender					      <
+iotdevicemanagement					      <
+iotevents						      <
+iotevents-data						      <
+iotfleethub						      <
+iotsecuretunneling					      <
+iotsitewise						      <
+iotwireless						      <
+ivs							      <
+ivschat							      <
+kafka								kafka
+kafkaconnect						      <
+kendra							      <
+kendra-ranking						      <
+kinesis								kinesis
+kinesisanalytics						kinesisanalytics
+kinesisvideo						      <
+kms								kms
+lakeformation							lakeformation
+lambda								lambda
+launchwizard							launchwizard
+lex-models						      <
+lex-runtime						      <
+lexv2-models						      <
+license-manager							license-manager
+license-manager-linux-subscriptions				license-manager-linux-subscriptions
+license-manager-user-subscriptions				license-manager-user-subscriptions
+lightsail						      <
+logs								logs
+lookoutmetrics						      <
+lookoutvision						      <
+lumberyard						      <
+m2							      <
+macie								macie
+managedblockchain					      <
+managedservices						      <
+marketplace							marketplace
+mcs							      <
+mediaconnect						      <
+mediaconvert						      <
+medialive						      <
+mediapackage						      <
+mediapackage-vod					      <
+mediastore						      <
+mediastore-data						      <
+mediatailor						      <
+memorydb						      <
+meteringmarketplace						meteringmarketplace
+mgh							      <
+mgn								mgn
+migration-hub-refactor-spaces				      <
+migrationhuborchestrator				      <
+migrationhubstrategy					      <
+mq								mq
+mwaa							      <
+neptune							      <
+network-firewall						network-firewall
+networkmanager							networkmanager
+nimble							      |	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+							      >	null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+null								null
+oam								oam
+opensearchserverless					      <
+opsworks						      <
+opsworkschefautomate					      <
+opsworkscm						      <
+opsworkspuppetenterprise				      <
+organizations							organizations
+outposts							outposts
+personalize						      <
+phd								phd
+pi								pi
+pinpoint						      <
+pinpoint-sms-voice-v2					      <
+pipes								pipes
+polly							      <
+privatelink							privatelink
+proton							      <
+qldb							      <
+qldb-session						      <
+quicksight						      <
+ram								ram
+rbin								rbin
+rds								rds
+rds-data						      <
+redshift							redshift
+redshift-data							redshift-data
+rekognition						      <
+resiliencehub						      <
+resource-explorer-2						resource-explorer-2
+resource-groups							resource-groups
+resourcegroupstaggingapi					resourcegroupstaggingapi
+robomaker						      <
+rolesanywhere							rolesanywhere
+rosa								rosa
+route53								route53
+route53-recovery-control-config					route53-recovery-control-config
+route53resolver							route53resolver
+rum							      <
+s3								s3
+s3control							s3control
+s3outposts							s3outposts
+sagemaker							sagemaker
+sagemaker-edge						      <
+sagemaker-featurestore-runtime					sagemaker-featurestore-runtime
+sagemaker-metrics						sagemaker-metrics
+sagemaker-runtime						sagemaker-runtime
+savingsplans							savingsplans
+scheduler							scheduler
+schemas							      <
+sdb							      <
+secretsmanager							secretsmanager
+securityhub							securityhub
+securitylake						      <
+serverlessrepo						      <
+service-quotas							service-quotas
+servicecatalog							servicecatalog
+servicecatalog-appregistry					servicecatalog-appregistry
+servicediscovery						servicediscovery
+ses								ses
+shield								shield
+signer							      <
+sms							      <
+snow-device-management					      <
+snowball							snowball
+snowcone						      <
+sns								sns
+sqs								sqs
+ssm								ssm
+ssm-contacts						      <
+ssm-incidents						      <
+ssm-sap								ssm-sap
+sso-oidc							sso-oidc
+stepfunctions							stepfunctions
+storagegateway							storagegateway
+sts								sts
+sumerian						      <
+support								support
+swf								swf
+synthetics							synthetics
+timestream						      <
+timestream-write					      <
+transcribe						      <
+transcribemedical					      <
+transfer							transfer
+transitgateway							transitgateway
+translate						      <
+trustedadvisor							trustedadvisor
+vmwarecloudonaws						vmwarecloudonaws
+voice-id						      <
+vpc								vpc
+vpn								vpn
+waf								waf
+waf-regional							waf-regional
+wellarchitectedtool					      <
+wisdom							      <
+workdocs						      <
+workspaces						      <
+workspaces-web						      <
+xray								xray
